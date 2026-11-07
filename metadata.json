@@ -1,0 +1,6 @@
+{
+  "name": "Operador Táctico Tier-1 3D",
+  "description": "Visualizador fotorrealista 3D de Operador Táctico Tier-1 con renderizado cinematográfico PBR y shaders GLSL en Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
